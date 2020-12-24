@@ -3,10 +3,10 @@
 - A Blockchain based basic project, which focuses on interacting with the smart-contract via web3dart in flutter.
 
 ## Preview
-<img src="https://i.ibb.co/DWrxxhF/Untitled1.gif" width="80%">
+<img src="https://i.ibb.co/DWrxxhF/Untitled1.gif" width="50%">
 
 ## Initial Setup
-- Meta-Mask, Chrome Extension installation.
+- [Meta-Mask](https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn?hl=en), Chrome Extension installation.
 - Infura to connect with the RPC server.
 - Deployed Smart-Contract on Remix-Ethereum IDE.
 
@@ -22,7 +22,7 @@
 ![Deploy Contract](assets/screenshot_deploy.png)
 - Copy ABI
 ![Copy Contract ABI](assets/Screenshot.png)
-- Paste ABI in out project as, `assets/abi.json`
+- Paste ABI in our project as, `assets/abi.json`
 
 ## Infura
 - Create your account on [infura](https://infura.io/)
